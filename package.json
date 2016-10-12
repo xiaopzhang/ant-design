@@ -25,10 +25,11 @@
   "bugs": {
     "url": "https://github.com/ant-design/ant-design/issues"
   },
-  "main": "dist/antd",
+  "main": "index.js",
   "files": [
     "dist",
-    "lib"
+    "lib",
+    "index.js"
   ],
   "typings": "lib/index.d.ts",
   "license": "MIT",
